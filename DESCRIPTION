@@ -10,7 +10,7 @@ person(
   email = "aurelien.dugourd@bioquant.uni-heidelberg.de")
   )
 )
-Description: This package is a colleciton of prior knowledge ressources for yeast. 
+Description: This package is a collection of prior knowledge ressources for yeast. 
 Mainly, it contains a kianse substrate network, a transcription factor target netowrk and a prior knowledge network
 License: What license is it under?
 Encoding: UTF-8
