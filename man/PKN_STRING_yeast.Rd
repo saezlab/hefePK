@@ -4,7 +4,7 @@
 \alias{PKN_STRING_yeast}
 \title{The PKN of yeast from STRING}
 \format{
-The full KSN contains 4662 signed directed protein protein interactions
+The full PKN contains 4662 signed directed protein protein interactions
 \describe{
     \item{source}{upstream protein}
     \item{targets}{downstream protein}

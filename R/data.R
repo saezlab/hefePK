@@ -17,7 +17,7 @@ NULL
 #'
 #' Filtered interactions comming from database only, with 700 confidence score at least
 #'
-#' @format The full KSN contains 4662 signed directed protein protein interactions
+#' @format The full PKN contains 4662 signed directed protein protein interactions
 #' \describe{
 #'     \item{source}{upstream protein}
 #'     \item{targets}{downstream protein}
