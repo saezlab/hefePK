@@ -1,0 +1,18 @@
+Package: yeastPK
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author@R: c(
+person(
+  given = "Aurélien",
+  family = "Dugourd",
+  role = c("cre","aut"), 
+  email = "aurelien.dugourd@bioquant.uni-heidelberg.de")
+  )
+)
+Description: This package is a colleciton of prior knowledge ressources for yeast. 
+Mainly, it contains a kianse substrate network, a transcription factor target netowrk and a prior knowledge network
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: bzip2
