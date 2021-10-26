@@ -29,19 +29,20 @@ NULL
 #' @source \url{https://github.com/saezlab/conformationomic_yeast_picotti_2020/blob/master/scripts/format_STRING_PKN_signed.R}
 NULL
 
-#' The TF-target network of yeast from JASPAR motif recognition
+#' The TF-target network of yeast from JASPAR motif recognition and yeastract curated database
 #'
 #' The sign of each TF-target network interaction is determined from a large collection of gene KO experiement of TFs
-#' to determine the score, the sign of the "value" column of the original table (see source) is multiplied by -1
+#' to determine the score of the jaspar interactions, the sign of the "value" column of the original table of jaspar (see source) is multiplied by -1
 #'
-#' @format The full TFTN contains 4201 signed interactions
+#' @format The full TFTN contains 14183 signed interactions
 #' \describe{
 #'     \item{tf}{upstream transcription factor}
 #'     \item{target}{downstream transcript}
 #'     \item{mor}{activation/inhibition of transcription(1/-1)}
 #' }
 #' @keywords TFTN
-#' @name TFTN_JASPAR_yeast
-#' @examples data("TFTN_JASPAR_yeast")
+#' @name TFTN_compound_yeast
+#' @examples data("TFTN_compound_yeast")
 #' @source \url{https://github.com/saezlab/yeast_phospho/blob/master/files/tf_gene_network_binding_sites_posterior_90.tab}
+#' @source \url{https://github.com/ptgm/Paper_2020_Sci_Rep_scripts/blob/master/yeast2019-full-conds-net.txt}
 NULL
