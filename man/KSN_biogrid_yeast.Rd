@@ -4,7 +4,7 @@
 \alias{KSN_biogrid_yeast}
 \title{The KSN of biogrid for yeast to run Kinase activity estimation}
 \format{
-The full KSN contains 73388 Kinase substrate interaction
+The full KSN contains 15553 Kinase substrate interaction for 146 unique kinases
 \describe{
     \item{psite}{substrate identifier with gene name, residue and position}
     \item{kinase}{kinase name}

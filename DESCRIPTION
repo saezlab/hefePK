@@ -11,5 +11,4 @@ Author@R: c(
 Description: This package is a collection of prior knowledge ressources for yeast. Mainly, it contains a kianse substrate network, a transcription factor target netowrk and a prior knowledge network
 Encoding: UTF-8
 LazyData: true
-LazyDataCompression: bzip2
 RoxygenNote: 7.1.2

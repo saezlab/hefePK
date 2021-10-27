@@ -4,7 +4,7 @@
 \alias{TFTN_compound_yeast}
 \title{The TF-target network of yeast from JASPAR motif recognition and yeastract curated database}
 \format{
-The full TFTN contains 14183 signed interactions
+The full TFTN contains 14183 signed interactions for 155 unique TFs
 \describe{
     \item{tf}{upstream transcription factor}
     \item{target}{downstream transcript}

@@ -2,7 +2,7 @@
 #'
 #' Using common yeast gene names
 #'
-#' @format The full KSN contains 73388 Kinase substrate interaction
+#' @format The full KSN contains 15553 Kinase substrate interaction for 146 unique kinases
 #' \describe{
 #'     \item{psite}{substrate identifier with gene name, residue and position}
 #'     \item{kinase}{kinase name}
@@ -34,7 +34,7 @@ NULL
 #' The sign of each TF-target network interaction is determined from a large collection of gene KO experiement of TFs
 #' to determine the score of the jaspar interactions, the sign of the "value" column of the original table of jaspar (see source) is multiplied by -1
 #'
-#' @format The full TFTN contains 14183 signed interactions
+#' @format The full TFTN contains 14183 signed interactions for 155 unique TFs
 #' \describe{
 #'     \item{tf}{upstream transcription factor}
 #'     \item{target}{downstream transcript}
