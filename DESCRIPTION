@@ -1,4 +1,4 @@
-Package: yeastPK
+Package: hefePK
 Type: Package
 Title: yeast prior knowledge collection
 Version: 0.3.0
@@ -8,7 +8,7 @@ Author@R: c(
            role = c("cre","aut"), 
            email = "aurelien.dugourd@bioquant.uni-heidelberg.de")
            )
-Description: This package is a collection of prior knowledge ressources for yeast. Mainly, it contains a kianse substrate network, a transcription factor target netowrk and a prior knowledge network
+Description: This package is a collection of prior knowledge resources for yeast. Mainly, it contains a kinase substrate network, a transcription factor target network and a prior knowledge network
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.2

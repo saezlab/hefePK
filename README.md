@@ -1,13 +1,13 @@
-# yeastPK
+# hefePK
 
 This package is a collection of prior knowledge ressources for yeast. 
 Mainly, it contains a kianse substrate network, a transcription factor target netowrk and a prior knowledge network
 
 ## Instalation
 
-To install `yeastPK` please run:
+To install `hefePK` please run:
 ```
-devtools::install_github('saezlab/yeastPK')
+devtools::install_github('saezlab/hefePK')
 ```
 
 ## Sources:
